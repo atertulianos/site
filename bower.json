@@ -1,0 +1,20 @@
+{
+  "name": "Acomanhante",
+  "homepage": "https://github.com/atertulianos/site",
+  "authors": [
+    "Anderson <andersontertus@gmail.com>"
+  ],
+  "description": "site para anuncios adultos",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
