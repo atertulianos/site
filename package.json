@@ -1,0 +1,22 @@
+{
+  "name": "acompanhante",
+  "version": "1.0.0",
+  "description": "\"# site\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atertulianos/site.git"
+  },
+  "author": "Anderson Tertuliano dos Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atertulianos/site/issues"
+  },
+  "homepage": "https://github.com/atertulianos/site#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
